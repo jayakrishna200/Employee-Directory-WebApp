@@ -81,4 +81,3 @@ A modern, responsive Employee Directory web application built with **HTML**, **T
 - Add unit tests for JavaScript logic.
 
 ---
-\
